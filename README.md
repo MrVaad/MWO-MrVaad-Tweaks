@@ -1,6 +1,9 @@
 # MWO-MrVaad-Tweaks
 Mechwarrior Online - Settings Guide, User.cfg Guide and Tweaks for the game
 
+# You can also check MWOConfig here (a config file editor for MWO)
+https://github.com/MrVaad/MWOConfig
+
 --------------------------------------------------------------------------------------------------------
 -- INSTALL STEPS
 --------------------------------------------------------------------------------------------------------
